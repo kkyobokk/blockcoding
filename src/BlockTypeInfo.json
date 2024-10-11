@@ -1,0 +1,50 @@
+{
+    "if" : {
+        "text" : "If",
+        "inputCount" : 1,
+        "inputType" : ["expression"],
+        "width" : 120
+    },
+    "for" : {
+        "text" : "For",
+        "inputCount" : 1,
+        "inputType" : ["number"],
+        "width" : 100
+    },
+    "while" : {
+        "text" : "While",
+        "inputCount" : 1,
+        "inputType" : ["expression"],
+        "width" : 120
+    },
+    "init" : {
+        "text" : "Init",
+        "inputCount" : 3,
+        "inputType" : ["type", "name", "value"],
+        "width" : 180
+    },
+    "print" : {
+        "text" : "Print",
+        "inputCount" : 1,
+        "inputType" : ["expression"],
+        "width" : 250
+    },
+    "buffer" : {
+        "text" : "Buffer",
+        "inputCount" : 0,
+        "inputType" : [],
+        "width" : 100
+    },
+    "else" : {
+        "text" : "else",
+        "inputCount" : 0,
+        "inputType" : [],
+        "width" : 100
+    },
+    "temp" : {
+        "text " : "",
+        "inputCount" : 0,
+        "inputType" : [],
+        "width" : 100
+    }
+}
